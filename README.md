@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
-### **技术栈:**
+### **🛠 技术栈 | Tech Stack**
 
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
