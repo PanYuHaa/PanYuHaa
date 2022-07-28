@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br></br>
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br><br></br>
