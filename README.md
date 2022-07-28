@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img src="./images/banner.png">
-
 - 🌱 I’m a student learning CS in Beijing
 
 <!--
