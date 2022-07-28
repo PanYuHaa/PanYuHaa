@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io"><code><img height="20" src="./images/kubernetes.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### Github 活跃度
+### Github 数据信息
 
 [![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br><br></br>
