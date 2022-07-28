@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ### Github 数据信息
 
-[![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br></br>
+
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br><br></br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa&hide=javascript,html,css&theme=tokyonight)
+<br><br></br>
+[![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
