@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 <br><br></br>
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br><br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa&hide=javascript,html,css&theme=dark&layout=compact)
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa&hide=javascript,html,css&theme=tokyonight)
