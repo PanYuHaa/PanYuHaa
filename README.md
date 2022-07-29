@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - 🌱 I’m a student learning CS in Beijing
 
@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🛠 技术栈 | Tech Stack
+## 🛠 技术栈 | Tech Stack
 
-<a href="https://golang.google.cn"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.mysql.com"><code><img height="20" src="./images/mysql.png"></code></a>
-<a href="https://redis.io"><code><img height="20" src="./images/redis.png"></code></a>
-<a href="https://kubernetes.io"><code><img height="20" src="./images/kubernetes.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://golang.google.cn"><code><img height="36" src="./images/golang.png"></code></a>
+<a href="https://www.mysql.com"><code><img height="36" src="./images/mysql.png"></code></a>
+<a href="https://redis.io"><code><img height="36" src="./images/redis.png"></code></a>
+<a href="https://kubernetes.io"><code><img height="36" src="./images/kubernetes.png"></code></a>
+<a href="https://www.docker.com"><code><img height="36" src="./images/docker.png"></code></a>
 
-### 开源 Demo
+## 开源 Demo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
 
-### Github 数据信息
+## Github 数据信息
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br></br>
