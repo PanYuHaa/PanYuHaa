@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io"><code><img height="28" src="./images/kubernetes.png"></code></a>
 <a href="https://www.docker.com"><code><img height="28" src="./images/docker.png"></code></a>
 <br></br>
-### 💻 LeetCode
-![leetcode](https://stats.justsong.cn/api/leetcode/?username=PanYuHaa&theme=dark)
 
 ### 🌐 开源 Demo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
 <br></br>
+
+### 💻 LeetCode
+![leetcode](https://stats.justsong.cn/api/leetcode/?username=PanYuHaa&theme=dark)
+
 
 ### 📚 Github 数据信息
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
