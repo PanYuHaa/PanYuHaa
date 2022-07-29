@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m a student learning CS in Beijing
+<br></br>
 
 <!--
 **PanYuHaa/PanYuHaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,14 +25,15 @@ Here are some ideas to get you started:
 <a href="https://redis.io"><code><img height="28" src="./images/redis.png"></code></a>
 <a href="https://kubernetes.io"><code><img height="28" src="./images/kubernetes.png"></code></a>
 <a href="https://www.docker.com"><code><img height="28" src="./images/docker.png"></code></a>
-
-### 💻LeetCode
+<br></br>
+### 💻 LeetCode
 ![leetcode](https://stats.justsong.cn/api/leetcode/?username=PanYuHaa&theme=dark)
 
-### 🌐开源 Demo
+### 🌐 开源 Demo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
+<br></br>
 
-### 📚Github 数据信息
+### 📚 Github 数据信息
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br></br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa&hide=javascript,html,css&theme=tokyonight)
