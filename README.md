@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
 <br></br>
 
-### 💻 LeetCode
-![leetcode](https://stats.justsong.cn/api/leetcode/?username=PanYuHaa&theme=dark)
-
-
-### 📚 Github 数据信息
+### 💻 Github 数据信息
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=PanYuHaa&show_icons=true&theme=tokyonight)
 <br></br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanYuHaa&hide=javascript,html,css&theme=tokyonight)
 <br></br>
 [![](https://activity-graph.herokuapp.com/graph?username=PanYuHaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br></br>
+
+### 📚 LeetCode
+![leetcode](https://stats.justsong.cn/api/leetcode/?username=PanYuHaa&theme=dark)
