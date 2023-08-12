@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <br></br>
 
 ### 🌐 开源 Demo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
-(https://github.com/PanYuHaa/simple-rpc.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PanYuHaa&repo=dousheng-project&simple-rpc&theme=tokyonight)](https://github.com/PanYuHaa/dousheng-project.git)
 <br></br>
 
 ### 💻 Github 数据信息
